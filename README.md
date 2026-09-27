@@ -15,5 +15,10 @@
 - `src/demo` — демонстрація рефакторингу та навантажувальне тестування;
 - `test/library` — автоматизовані тести JUnit 5.
 
+## Запуск
+- демонстрація рефакторингу: `src/demo/Lab1RefactoringDemo.java`;
+- автоматизовані тести: каталог `test/library` (Run 'All Tests');
+- навантажувальне тестування: `src/demo/Lab7LoadTest.java`.
+
 ## Технології
 Java 8, JUnit 5, IntelliJ IDEA, Git, GitHub.
